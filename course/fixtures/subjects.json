@@ -1,0 +1,34 @@
+[
+{
+  "pk": 1,
+  "model": "course.subject",
+  "fields": {
+    "title": "Chinese",
+    "slug": "chinese"
+  }
+},
+{
+  "pk": 2,
+  "model": "course.subject",
+  "fields": {
+    "title": "Math",
+    "slug": "math"
+  }
+},
+{
+  "pk": 3,
+  "model": "course.subject",
+  "fields": {
+    "title": "English",
+    "slug": "english"
+  }
+},
+{
+  "pk": 4,
+  "model": "course.subject",
+  "fields": {
+    "title": "PE",
+    "slug": "pe"
+  }
+}
+]
